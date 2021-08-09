@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 <ul>
-  <li>🎓Freshman At National Institute Of Technology,Hamirpur,India.</li>
+  <li>🎓Sophomore At National Institute Of Technology,Hamirpur,India.</li>
   <li>🔭Pursuing Electronics And Communication.</li>
   <li>🌱Doodling and writing are among my few escapes.</li>
  </ul>
