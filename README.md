@@ -24,24 +24,22 @@
 
 ---
 
+## 🐈‍⬛ My Github Stats
 
-<p align=center>
-  <div align="center">
-    <a href="https://github.com/suyash2002/github-readme-streak-stats" title="Go to Source">
+
+<!--     <a href="https://github.com/suyash2002/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=suyash2002&theme=react&border=61dafb&border_color=61dafb" alt="zumrudu-anka" />
-    </a>
-      <br><br>
-    <a href="https://github.com/suyash2002/github-readme-stats" title="Go to Source">
+    </a> -->
+<div align="center">
+ <a href="https://github.com/suyash2002/github-readme-stats" title="Go to Source">
       <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=suyash2002&show_icons=true&theme=react&border_color=61dafb"/>
-
 </a>
-<p>
+</div>
 <br>
-<center>
-      <img align="center"  width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=suyash2002&show_icons=true&locale=en&layout=compact&title_color=ffcccc&icon_color=ffcccc&text_color=ffffff&bg_color=20232a&border_color=61dafb" alt="Suyash Barwal" />&nbsp;
-      </center>
-  
-</p>
+<p></p>
+<div align="center">
+<img align="center"  width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=suyash2002&show_icons=true&locale=en&layout=compact&title_color=ffcccc&icon_color=ffcccc&text_color=ffffff&bg_color=20232a&border_color=61dafb" alt="Suyash Barwal" />&nbsp;
+
 </div>
 
 ---
